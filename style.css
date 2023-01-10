@@ -370,7 +370,9 @@ h2{
 
     .header .get-started{
         width: 30%;
-        padding: 1.5em 0;
+        border-radius: 10rem;
+        font-size: 1.2rem;
+        padding: 1.2em 0;
     }
 
     .header .header__mockups{
@@ -420,8 +422,10 @@ h2{
      }
 
      .join .get-started{
+        border-radius: 10rem;
         padding: 1.2em;
-        width: 20rem;
+        font-size: 1.2rem;
+        width: 25rem;
      }
 
      .footer {
