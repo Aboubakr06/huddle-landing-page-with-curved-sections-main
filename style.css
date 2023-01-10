@@ -398,6 +398,10 @@ h2{
         width: 90%;
     }
 
+    .section h2{
+        font-size: 2.5rem;
+    }
+
     .section div{
         width: 80%;
     }
